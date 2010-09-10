@@ -1,0 +1,1 @@
+This is an example taken from the book [The Essential Guide to Flash Games: Building Interactive Entertainment with ActionScript By Jeff Fulton, Steve Fulton](http://www.friendsofed.com/book.html?isbn=1430226145). 
